@@ -1,0 +1,22 @@
+{
+  "name": "testcafe-challenge-exercise",
+  "version": "1.0.0",
+  "description": "Challenge from first Wizeline Academy Session",
+  "main": "index.js",
+  "scripts": {
+    "test-all-chrome": "testcafe chrome ./page_model/tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dianacaro/testcafe-automation-challenge.git"
+  },
+  "author": "Diana Vázquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dianacaro/testcafe-automation-challenge/issues"
+  },
+  "homepage": "https://github.com/dianacaro/testcafe-automation-challenge#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
